@@ -1,6 +1,16 @@
 PythonDDPExperiment
 ===================
 
+So I went ahead and implemented the ddp client (meteor specific bit are in progress) Source can be found here:
+
+<https://github.com/hharnisc/python-ddp>
+
+**Install it with pip**
+
+```bash
+$ pip install python-ddp
+```
+
 ## The Project
 The goal is to create a full featured event driven DDP client for python. This was derived from the Meteor unfinished [Python DDP Client](https://github.com/meteor/meteor/tree/devel/examples/unfinished/python-ddp-client) and some of the existing DDP clients for node.
 
